@@ -80,6 +80,18 @@ Core Banking Support & Implementation
 - Data analysis and Power BI
 - Moving from reactive support toward implementation, technical ownership and solution building
 
+### Activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhupeshHarode&theme=tokyonight" alt="GitHub contributions" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhupeshHarode&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhupeshHarode&theme=tokyonight" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhupeshHarode&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
 ### Connect
 
 - **Email:** [mr.bhupeshharode@gmail.com](mailto:mr.bhupeshharode@gmail.com)
